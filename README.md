@@ -55,5 +55,6 @@ if (Files.exists(Paths.get("downloaded_file.pdf"))) {
 }
 
 #Additional Notes
+
 This utility is designed to work with Selenium WebDriver in Java environments.
 Make sure to handle exceptions and edge cases appropriately in your code.
